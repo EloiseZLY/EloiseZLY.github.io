@@ -1,0 +1,25 @@
+{
+  "name": "eloisezly.github.io",
+  "version": "1.0.0",
+  "description": "Lingyi Zheng home page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EloiseZLY/EloiseZLY.github.io.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "Lingyi Zheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EloiseZLY/EloiseZLY.github.io/issues"
+  },
+  "homepage": "https://github.com/EloiseZLY/EloiseZLY.github.io#readme",
+  "devDependencies": {
+    "eslint": "^8.24.0"
+  }
+}
